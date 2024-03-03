@@ -2,8 +2,7 @@
 #  Tal Levy
 
 ## Full-Stack Developer
-Hi 👋 I'm Tal Levy.
-A passionate Full-Stack Developer based in Israel.
+Hi 👋 I'm Tal Levy, A passionate Full-Stack Developer based in Israel.
 ### Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS
